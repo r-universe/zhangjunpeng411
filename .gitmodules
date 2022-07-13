@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "miRSM"]
+	path = miRSM
+	url = https://github.com/zhangjunpeng411/mirsm
+	shallow = true
+	registered = true
+[submodule "miRspongeR"]
+	path = miRspongeR
+	url = https://github.com/zhangjunpeng411/mirsponger
+	shallow = true
+	registered = true
