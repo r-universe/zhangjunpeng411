@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "miRSM"
+  },
+  {
+    "package": "miRspongeR"
+  }
+]
